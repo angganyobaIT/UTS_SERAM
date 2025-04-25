@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTS_SERAM", "UTS_SERAM\UTS_SERAM.csproj", "{E78DDDE2-0C90-476C-8E6D-489BE9863E9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E78DDDE2-0C90-476C-8E6D-489BE9863E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E78DDDE2-0C90-476C-8E6D-489BE9863E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E78DDDE2-0C90-476C-8E6D-489BE9863E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E78DDDE2-0C90-476C-8E6D-489BE9863E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEC9AF9F-8B8E-45BD-9469-1A82190BC771}
+	EndGlobalSection
+EndGlobal
